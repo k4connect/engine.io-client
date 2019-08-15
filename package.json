@@ -2,7 +2,7 @@
   "name": "engine.io-client",
   "description": "Client for the realtime Engine",
   "license": "MIT",
-  "version": "1.6.11",
+  "version": "1.6.12",
   "homepage": "https://github.com/socketio/engine.io-client",
   "contributors": [
     {
@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "has-cors": "1.1.0",
-    "ws": "1.0.1",
+    "@k4connect/ws": "~1.1.6",
     "xmlhttprequest-ssl": "1.5.1",
     "component-emitter": "1.1.2",
     "indexof": "0.0.1",
